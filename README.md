@@ -5,10 +5,10 @@ Senior Full-Stack Developer & Technical Leader with 14+ years of experience tran
 
 #### 🛠️ Core Technical Skills
 - **Frontend:** Angular, TypeScript, Angular Material, Bootstrap, HTML5, CSS3, JavaScript  
-- **Backend:** C#, .NET 8/6, .NET Core, Web API, WCF, Python  
+- **Backend:** C#, .NET 8/6, .NET Core, Web API, Python
 - **Cloud & Serverless:** Azure Functions, App Insights, Microsoft Entra ID, Azure Configuration, Cosmos DB  
 - **DevOps:** Azure DevOps, GitOps, Docker, Kubernetes, SonarQube  
-- **Database:** SQL Server, Redis, Dapper  
+- **Database:** SQL Server, PostgerSQL, MangoDB,Dapper
 
 #### 🚀 Experience Highlights
 - Modernized legacy systems with Angular and .NET Core  
