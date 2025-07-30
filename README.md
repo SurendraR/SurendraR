@@ -23,7 +23,7 @@ Senior Full-Stack Developer & Technical Leader with 14+ years of experience tran
 
 - 👯 I’m looking to collaborate on **open-source tools or architecture best practices**
 - 🤔 I’m looking for help with **building scalable backend services or distributed systems**
-- 🌱 I’m currently learning **AI-assisted development, GitHub Copilot workflows, and .NET MAUI**
+- 🌱 I’m currently learning **AI-assisted development, AI integreated projects Like simantic search with RAG, Local LLMs, Sentiment Analysis**
 - 💬 Ask me about **.NET, Azure, DevOps pipelines, or engineering leadership**
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/surendra-rayapati) · [Portfolio](https://surendrar.github.io/)  
 - 😄 Pronouns: He/Him
