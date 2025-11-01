@@ -7,7 +7,7 @@ Senior Full-Stack Developer & Technical Leader with 14+ years of experience tran
 - **Frontend:** Angular, TypeScript, Angular Material, React, Bootstrap, HTML5, CSS3, JavaScript  
 - **Backend:** C#, .NET 8/6, .NET Core, Web API, Python, Fast API 
 - **Cloud & Serverless:** Azure Functions, App Insights, Microsoft Entra ID, Azure Configuration, Cosmos DB  
-- **DevOps:** Azure DevOps, GitOps, Docker, Kubernetes, SonarQube  
+- **DevOps:** Azure DevOps, GitOps, Docker, Kubernetes
 - **Database:** SQL Server, PostgreSQL, MongoDB, Dapper  
 
 ## 🚀 Experience Highlights  
