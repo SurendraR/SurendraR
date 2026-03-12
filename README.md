@@ -30,7 +30,7 @@ Always eager to explore new advancements, I experiment hands-on and bring the po
 - 🤔 Can help with **scalable backend services or distributed systems**  
 - 🌱 Currently learning: AI-assisted development, semantic search with RAG, local LLMs, sentiment analysis  
 - 💬 Ask me about: **.NET, Azure, DevOps pipelines, Angular**  
-- 📫 Reach me: [LinkedIn](https://linkedin.com/in/surendra-rayapati) · [Portfolio](https://surendrar.github.io/) · [Blog](https://itsmycodeworld.blogspot.com) · [GitHub](https://github.com/SurendraR)  
+- 📫 Reach me: [LinkedIn](https://linkedin.com/in/surendra-rayapati) · [Portfolio](https://surendrar.github.io/) · [Blog](https://byteversity.blogspot.com/) · [GitHub](https://github.com/SurendraR)  
 - 😄 Pronouns: He/Him  
 
 _Always learning, always building. Passionate about technology that empowers people._
